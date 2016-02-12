@@ -1,0 +1,17 @@
+C:\Users\sa\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\sa\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\Project2.Form1.resources
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\Project2.Properties.Resources.resources
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\Project2.exe
+C:\Users\sa\Desktop\Project2\Project2\obj\x86\Debug\Project2.pdb
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.exe
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.pdb
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\bin\Debug\Project2.exe
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\bin\Debug\Project2.pdb
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.csprojResolveAssemblyReference.cache
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.Form1.resources
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.Properties.Resources.resources
+F:\Fall - 2014\OOP-2(C#)\Project2\Project2\obj\x86\Debug\Project2.csproj.GenerateResource.Cache
